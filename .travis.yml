@@ -1,3 +1,4 @@
+language: php
 notifications:
   webhooks:
   - https://webhooks.datocms.com/9e42c1cca81933b43498/deploy-results
